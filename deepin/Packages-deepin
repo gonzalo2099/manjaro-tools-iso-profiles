@@ -78,7 +78,7 @@ networkmanager
 
 ## Artwork
 awoken-icon-theme
-deepin-wallpapers
+#deepin-wallpapers -- package does not exist currently 
 ttf-inconsolata
 xcursor-chameleon-pearl
 xfce-theme-greenbird
